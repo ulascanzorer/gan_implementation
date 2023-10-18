@@ -2,3 +2,5 @@ test.ipynb
 .venv
 data
 samplegan.py
+testcode.py
+cnn_gan_cifar.ipynb
